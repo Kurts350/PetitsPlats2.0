@@ -21,7 +21,6 @@ document.addEventListener('DOMContentLoaded', () => {
           <p class="card-text recipe-description mb-4"></p>
           <h6 class="card-subtitle mb-3 text-muted small text-uppercase">Ingrédients</h6>
           <div class="row recipe-ingredients g-3">
-            <!-- Les ingrédients seront insérés ici -->
           </div>
         </div>
       </div>
